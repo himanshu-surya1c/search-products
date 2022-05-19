@@ -1,2 +1,2 @@
-# search-products
+# search-functionality
 Created with CodeSandbox
