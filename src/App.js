@@ -2,7 +2,9 @@ import { useState, useEffect } from "react";
 
 import CardList from "./components/card-list/card-list.component";
 import SearchBox from "./components/search-box/search-box.component";
+
 import "./App.css";
+import Card from "./components/card/card.component";
 
 const App = () => {
   const [searchField, setSearchField] = useState("");
